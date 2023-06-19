@@ -25,14 +25,14 @@
 * 💻 Currently working on enhancing my skills in ETL platforms.
 
 <br>
-<details>
+<details align="center">
 <summary> 📈 Stats</summary>
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrb2310&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrb2310&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrb2310&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrb2310&theme=moltack) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrb2310&theme=moltack) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrb2310&theme=moltack)
 
 <br>
 </details>
